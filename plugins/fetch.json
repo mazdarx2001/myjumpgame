@@ -1,0 +1,64 @@
+{
+    "android.support.v4": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/MobileChromeApps/cordova-plugin-android-support-v4",
+            "subdir": "."
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "com.google.playservices": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/MobileChromeApps/google-play-services",
+            "subdir": ".",
+            "ref": "1f56399572d255193f8f9564843df60e50938e69"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-plugin-gamecenter": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Wizcorp/cordova-plugin-gameCenter",
+            "subdir": "."
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-plugin-fullscreen": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/mesmotronic/cordova-fullscreen-plugin.git",
+            "subdir": ".",
+            "ref": "v1.0.7"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-splashscreen": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\Steven\\Desktop\\IntelXDK\\xdk\\components\\server\\cordova-plugins\\cordova-plugin-splashscreen"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-device": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-device@1.1.0"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "nl.x-services.plugins.insomnia": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-insomnia@4.0.1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
